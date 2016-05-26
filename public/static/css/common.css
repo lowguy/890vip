@@ -1,0 +1,16 @@
+.navbar-fixed-top{
+    background: #333f45;
+}
+.panel-footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: #333f45;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.copy-rights{
+    text-align: center;
+}
